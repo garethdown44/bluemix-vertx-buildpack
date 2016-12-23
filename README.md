@@ -20,7 +20,7 @@ Example usage:
     $ ls
     server.js
 
-    $ cf push myapp -b https://github.com/philemon33/bluemix-vertx-buildpack.git
+    $ cf push myapp -b https://github.com/garethdown44/bluemix-vertx-buildpack.git
 
 
 This buildpack is based on  [mthenw/heroku-buildpack-vertx.git](https://github.com/mthenw/heroku-buildpack-vertx.git), which is itself based on [tomaslin/heroku-buildpack-vertx-jdk7](https://github.com/tomaslin/heroku-buildpack-vertx-jdk7).
